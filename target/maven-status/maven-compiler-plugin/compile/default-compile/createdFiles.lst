@@ -1,0 +1,8 @@
+com/grokonez/springrestapi/onetoone/model/Student.class
+com/grokonez/springrestapi/onetoone/jpa/ContactRepository.class
+com/grokonez/springrestapi/onetoone/model/Contact.class
+com/grokonez/springrestapi/onetoone/rest/ContactController.class
+com/grokonez/springrestapi/onetoone/exception/NotFoundException.class
+com/grokonez/springrestapi/onetoone/rest/StudentController.class
+com/grokonez/springrestapi/onetoone/jpa/StudentRepository.class
+com/grokonez/springrestapi/onetoone/SpringBootRestApiOneToOneApplication.class

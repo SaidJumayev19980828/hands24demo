@@ -1,0 +1,8 @@
+/Users/macbook/Desktop/SpringBootRestAPIsOneToOne/src/main/java/com/grokonez/springrestapi/onetoone/rest/ContactController.java
+/Users/macbook/Desktop/SpringBootRestAPIsOneToOne/src/main/java/com/grokonez/springrestapi/onetoone/jpa/ContactRepository.java
+/Users/macbook/Desktop/SpringBootRestAPIsOneToOne/src/main/java/com/grokonez/springrestapi/onetoone/jpa/StudentRepository.java
+/Users/macbook/Desktop/SpringBootRestAPIsOneToOne/src/main/java/com/grokonez/springrestapi/onetoone/rest/StudentController.java
+/Users/macbook/Desktop/SpringBootRestAPIsOneToOne/src/main/java/com/grokonez/springrestapi/onetoone/exception/NotFoundException.java
+/Users/macbook/Desktop/SpringBootRestAPIsOneToOne/src/main/java/com/grokonez/springrestapi/onetoone/SpringBootRestApiOneToOneApplication.java
+/Users/macbook/Desktop/SpringBootRestAPIsOneToOne/src/main/java/com/grokonez/springrestapi/onetoone/model/Student.java
+/Users/macbook/Desktop/SpringBootRestAPIsOneToOne/src/main/java/com/grokonez/springrestapi/onetoone/model/Contact.java
